@@ -1,14 +1,20 @@
 
 # hello
 
+## 2017-05-01 v2
+
+Fix markdown 
+
 ## 2017-05-01
 
 Ermergerd it's May already
+
 Push for Readme update
 
 ## err update
 
-Add a bunch of LPTHW exercises ''~~ spoooky gaaame ~~''
+Add a bunch of LPTHW exercises *~~ spoooky gaaame ~~*
+
 Remove new.new
 
 ## hello again
